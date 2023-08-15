@@ -8,4 +8,5 @@ single_frame_process.py:辨識單張圖片的程式
 yolo.py:yolo的程式碼
 yolo_2.py:第二個yolo的程式碼
 本貨櫃辨識是用yolov7做的，其內部有加入過ssh、cbma等模塊來幫助機器更能增測到小物件
-yolo部分可以參考bubbliiiing的github https://github.com/bubbliiiing/yolov4-pytorch，我是使用他所創建的yolov4和yolov7來訓練模型的
+yolo部分可以參考bubbliiiing的github https://github.com/bubbliiiing/yolov4-pytorch
+我是使用他所創建的yolov4和yolov7來訓練模型的
